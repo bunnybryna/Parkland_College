@@ -1,4 +1,3 @@
-# Parkland_College
-A site for CIS 112 
-
-This is my first website. Check this out!
+# CIS 122 Introduction to Programming Using Python
+# Textbook, Introduction to Computing and Programming in Python: A Multimedia Approach by Mark J. Guzdial, Barbara Ericson
+A site for recording and sharing some interesting codes from textbook and my homework
